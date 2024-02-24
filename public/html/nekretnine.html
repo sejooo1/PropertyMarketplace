@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="bs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nekretnine</title>
+    <link rel="stylesheet" href="../css/nekretnine.css" />
+    <link rel="stylesheet" href="../css/meni.css" />
+  </head>
+  <body>
+    <nav id="navigacijski-meni">
+      <ul>
+        <li>
+          <a id="profil-link" href="profil.html" style="display: none"
+            >Profil</a
+          >
+        </li>
+        <li><a href="nekretnine.html">Nekretnine</a></li>
+        <li><a id="prijava-link" href="">Prijava</a></li>
+        <li>
+          <a id="odjava-link" style="display: none">Odjava</a>
+        </li>
+      </ul>
+    </nav>
+    <div id="filter-form">
+      <input type="number" id="min-cijena" placeholder="Minimalna cijena" />
+      <input type="number" id="max-cijena" placeholder="Maksimalna cijena" />
+      <input
+        type="number"
+        id="min-kvadratura"
+        placeholder="Minimalna kvadratura"
+      />
+      <input
+        type="number"
+        id="max-kvadratura"
+        placeholder="Maksimalna kvadratura"
+      />
+      <button id="filter-button">Filtriraj</button>
+    </div>
+
+    <div id="property-list">
+      <div class="property-type" id="stan">Stan</div>
+      <div class="property-type" id="kuca">Kuća</div>
+      <div class="property-type" id="pp">Poslovni prostor</div>
+    </div>
+    <script src="../scripts/PoziviAjax.js"></script>
+    <script src="../scripts/MarketingAjax.js"></script>
+    <script src="../scripts/SpisakNekretnina.js"></script>
+    <script src="../scripts/nekretnine.js"></script>
+    <script src="../scripts/inicijalizacija.js"></script>
+  </body>
+</html>

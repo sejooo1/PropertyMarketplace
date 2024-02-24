@@ -1,0 +1,81 @@
+body {
+  background-color: #fdf1d3;
+  font-family: Arial, sans-serif;
+}
+#property-list {
+  padding: 20px;
+  margin-top: 20px;
+}
+.property-type {
+  font-size: 24px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+.property-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
+.property {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+  max-width: none; /* ili postavite veću vrijednost */
+}
+
+.property.house {
+  background-color: powderblue;
+}
+.property.commercial {
+  background-color: green;
+}
+.property img {
+  height: 200px;
+  max-width: 250px;
+}
+
+.property h3,
+.property p {
+  margin: 0;
+  padding: 0;
+}
+.property div.name-size {
+  text-align: left;
+}
+.property p.price {
+  text-align: right;
+}
+.details-button,
+.open-details-button {
+  background-color: #ff9900;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+/* Dodaj razmak između menija i filter forme */
+#navigacijski-meni {
+  margin-bottom: 20px;
+}
+
+/* Stilizuj filter formu */
+#filter-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+#filter-form input,
+#filter-form button {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#filter-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

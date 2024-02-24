@@ -1,0 +1,46 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#navigacijski-meni {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#navigacijski-meni ul {
+  display: flex;
+  justify-content: center;
+}
+
+#navigacijski-meni li {
+  padding: 10px 2%;
+  text-align: center;
+}
+
+#navigacijski-meni a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+#navigacijski-meni a:hover {
+  color: #ff9900;
+}
+
+#odjava-link:hover {
+  cursor: pointer;
+}
+
+body {
+  background-color: #fdf1d3;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding-top: 35px;
+}

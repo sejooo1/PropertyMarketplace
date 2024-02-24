@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="bs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detalji nekretnine</title>
+    <link rel="stylesheet" href="../css/detalji.css" />
+    <link rel="stylesheet" href="../css/meni.css" />
+  </head>
+  <body>
+    <nav id="navigacijski-meni">
+      <ul>
+        <li>
+          <a id="profil-link" href="profil.html" style="display: none"
+            >Profil</a
+          >
+        </li>
+        <li><a href="nekretnine.html">Nekretnine</a></li>
+        <li><a id="prijava-link" href="prijava.html">Prijava</a></li>
+        <li>
+          <a id="odjava-link" href="prijava.html" style="display: none"
+            >Odjava</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <h3>Osnovno</h3>
+    <div id="osnovno">
+      <img
+        id="slika-nekretnine"
+        src="https://media.istockphoto.com/id/1421422160/photo/interior-of-living-room.webp?b=1&s=170667a&w=0&k=20&c=wSTh-QHxbzidn3tdRFy_mS09fwiVEqBExJpPX9OhUXI="
+        alt="Slika nekretnine"
+      />
+      <p id="naziv-nekretnine"><strong>Naziv:</strong></p>
+      <p id="kvadratura-nekretnine"><strong>Kvadratura:</strong></p>
+      <p id="cijena-nekretnine"><strong>Cijena:</strong></p>
+    </div>
+
+    <div id="detalji">
+      <div class="info">
+        <p id="tip-grijanja"><strong>Tip grijanja:</strong></p>
+        <p id="lokacija-nekretnine"><strong>Lokacija:</strong></p>
+      </div>
+      <div class="info">
+        <p id="godina-izgradnje"><strong>Godina izgradnje:</strong></p>
+        <p id="datum-objave"><strong>Datum objave:</strong></p>
+      </div>
+      <p id="opis-nekretnine" class="opis">Opis:</p>
+    </div>
+
+    <h3>Upiti</h3>
+    <div id="upiti"></div>
+
+    <h3>Postavi Upit</h3>
+    <div id="upit-forma" style="display: none">
+      <input type="text" id="tekst-upita" placeholder="Vaš upit ovdje" />
+      <button id="posalji-upit">Pošalji Upit</button>
+    </div>
+
+    <script src="../scripts/PoziviAjax.js"></script>
+    <script src="../scripts/spojiUpite.js"></script>
+
+    <script src="../scripts/PoziviAjax.js"></script>
+    <script src="../scripts/inicijalizacija.js"></script>
+    <script src="../scripts/spojiDetalje.js"></script>
+  </body>
+</html>

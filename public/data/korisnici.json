@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "ime": "Sead",
+    "prezime": "Fejzagić",
+    "username": "sejooo1",
+    "password": "$2b$10$iwTNRcMsbINbBl.Qdtroi.IDp.sOTfKa2Bjzlh3a3Z5vsvuuBaMZq"
+  },
+  {
+    "id": 2,
+    "ime": "Emir",
+    "prezime": "Fejzagić",
+    "username": "emir",
+    "password": "$2b$10$f2H33Llk1zLSIaXswqohC.gOY8hjxp63OELQn48EdsVzIzo3DShyu"
+  },
+  {
+    "id": 3,
+    "ime": "admin",
+    "prezime": "admin",
+    "username": "admin",
+    "password": "$2b$10$syMbA4Rapx0is5k8U.G8d.gfG1hShdZ9hlB7Q8mBnwM/1KjZJMSVO"
+  },
+  {
+    "id": 4,
+    "ime": "Adnan",
+    "prezime": "Mujagić",
+    "username": "adnan_mujagic",
+    "password": "$2b$10$wa90rZfy2MpesI8w/ykw0eAc4F.nPbtzqAdkTOyvHmiTPnU2Lnjk6"
+  },
+  {
+    "id": 5,
+    "ime": "Amra",
+    "prezime": "Hodžić",
+    "username": "amra_hodzic",
+    "password": "$2b$10$somFweq7S3LdP2Aro15IU.4bZUCWURTfy4lqVwjPQfCEGS4uBMPRG"
+  },
+  {
+    "id": 6,
+    "ime": "Mirza",
+    "prezime": "Kurtalić",
+    "username": "mirza_kurtalic",
+    "password": "$2b$10$E5E32SGckKuYihNR3/3iJ.JMl5e2SsM/0kQphHyFh.ckv1m/bjMlm"
+  },
+  {
+    "id": 7,
+    "ime": "Aida",
+    "prezime": "Beširović",
+    "username": "aida_besirovic",
+    "password": "$2b$10$0rxiqDrSVzOHEbylMe05oOsA0ItNwhQcMRjROZf8V80S3SJtPbnE6"
+  },
+  {
+    "id": 8,
+    "ime": "Faruk",
+    "prezime": "Zukić",
+    "username": "faruk_zukic",
+    "password": "$2b$10$fw2.dn7i013TZxq3aHwoBOPlhgRVUnPFD2lPHo5swrwfUYF/DvDrO"
+  },
+  {
+    "id": 9,
+    "ime": "Selma",
+    "prezime": "Ahmetović",
+    "username": "selma_ahmetovic",
+    "password": "$2b$10$M1xuhMYWoQHOjicet7uSDub.Lxskt0eN/jGb2ggbfNzyhGrtG6YsG"
+  },
+  {
+    "id": 10,
+    "ime": "Haris",
+    "prezime": "Begić",
+    "username": "haris_begic",
+    "password": "$2b$10$7WZER7ZWK4MDEk8xaN1Cpe1LlfZQvdR6uQDJ5Pog8M/YN64wtBlkK"
+  },
+  {
+    "id": 11,
+    "ime": "Mia",
+    "prezime": "Salihović",
+    "username": "mia_salihovic",
+    "password": "$2b$10$MeoTnXp4OfdsYvrpAcdBoOqV4Fb7KnJd1RzlFjCZJHY5DK0QB4eOe"
+  },
+  {
+    "id": 12,
+    "ime": "Nermin",
+    "prezime": "Omeragić",
+    "username": "nermin_omeragic",
+    "password": "$2b$10$i9hhAz2lQKVIpfMBxe9dFelZuVoxVgtTVbxiCV8UA8MOX9Afjfa7K"
+  },
+  {
+    "id": 13,
+    "ime": "Emina",
+    "prezime": "Kovač",
+    "username": "emina_kovac",
+    "password": "$2b$10$jXOvo8u.ObBt/Ok1U6ArNunWQVJ0zNAFVIoNT3v5fowU/0Gcn8dKC"
+  },
+  {
+    "id": 14,
+    "ime": "Tarik",
+    "prezime": "Brkić",
+    "username": "tarik_brkic",
+    "password": "$2b$10$Yx48nr1ZD8AbCuQBrwboS.QOe5yVe9T6M1epe4hoNKsbHJMbfly0e"
+  },
+  {
+    "id": 15,
+    "ime": "Amina",
+    "prezime": "Hasagić",
+    "username": "amina_hasagic",
+    "password": "$2b$10$wrafPnnvTJp/RrhdP4E8weIvoz8WnxCY9mthNtiNO0fgyGOydt1C6"
+  },
+  {
+    "id": 16,
+    "ime": "Vedad",
+    "prezime": "Mahmutović",
+    "username": "vedad_mahmutovic",
+    "password": "$2b$10$SiMB4crSQS4GMZEnKoYXnu1/LL5QHZx/4gby930u8LvfW8RJh3DFa"
+  },
+  {
+    "id": 17,
+    "ime": "Maja",
+    "prezime": "Ibišević",
+    "username": "maja_ibisevic",
+    "password": "$2b$10$tPkEEMIMbuAYPmUnqG9ZlO69Zn9eh4kvWVdb.eODnNJWEM2qutgt2"
+  },
+  {
+    "id": 18,
+    "ime": "Dženan",
+    "prezime": "Smajić",
+    "username": "dzenan_smajic",
+    "password": "$2b$10$zBdPo8FSYlcIFb3YbieK7.LiIP6JVGesYYjw5sjp35WVBY3e0MhAO"
+  },
+  {
+    "id": 19,
+    "ime": "Sanela",
+    "prezime": "Hasić",
+    "username": "sanela_hasic",
+    "password": "$2b$10$rEH3X.YmaEWbVg47L/rV2uxba250.87PS3ZOtvHdyYs3QALpJBL6."
+  },
+  {
+    "id": 20,
+    "ime": "Tarik",
+    "prezime": "Kovačević",
+    "username": "tarik_kovacevic",
+    "password": "$2b$10$IeQzN0d1epq9ZCpBHAWGjurn0JeNVZ/WtMPvduJomb96MKtMzj1O2"
+  }
+]

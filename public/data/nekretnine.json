@@ -1,0 +1,351 @@
+[
+    {
+      "id": 1,
+      "tip_nekretnine": "Stan",
+      "naziv": "Useljiv stan Sarajevo",
+      "kvadratura": 58,
+      "cijena": 232000,
+      "tip_grijanja": "plin",
+      "lokacija": "Novo Sarajevo",
+      "godina_izgradnje": 2019,
+      "datum_objave": "01.10.2023.",
+      "opis": "Lijep stan na Malti",
+      "upiti": [
+        {
+          "korisnik_id": 1,
+          "tekst_upita": "Kako doći do stana?"
+        },
+        {
+          "korisnik_id": 2,
+          "tekst_upita": "Ima li teretane u blizini?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tip_nekretnine": "Poslovni prostor",
+      "naziv": "Mali poslovni prostor",
+      "kvadratura": 20,
+      "cijena": 70000,
+      "tip_grijanja": "struja",
+      "lokacija": "Centar",
+      "godina_izgradnje": 2005,
+      "datum_objave": "20.08.2023.",
+      "opis": "Mali prostor.",
+      "upiti": [
+        {
+          "korisnik_id": 2,
+          "tekst_upita": "Lijepo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tip_nekretnine": "Kuća",
+      "naziv": "Prostrana kuća s vrtom",
+      "kvadratura": 180,
+      "cijena": 450000,
+      "tip_grijanja": "centralno",
+      "lokacija": "Ilidža",
+      "godina_izgradnje": 2010,
+      "datum_objave": "15.09.2023.",
+      "opis": "Velika kuća s lijepim vrtom.",
+      "upiti": [
+        {
+          "korisnik_id": 3,
+          "tekst_upita": "Dostupnost škola u blizini?"
+        },
+        {
+          "korisnik_id": 4,
+          "tekst_upita": "Koliko ima soba?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tip_nekretnine": "Stan",
+      "naziv": "Moderan stan s pogledom",
+      "kvadratura": 75,
+      "cijena": 320000,
+      "tip_grijanja": "toplotna pumpa",
+      "lokacija": "Vogošća",
+      "godina_izgradnje": 2022,
+      "datum_objave": "10.11.2023.",
+      "opis": "Savremeni stan s prekrasnim pogledom.",
+      "upiti": [
+        {
+          "korisnik_id": 1,
+          "tekst_upita": "Ima li parking?"
+        },
+        {
+          "korisnik_id": 5,
+          "tekst_upita": "Blizina javnog prijevoza?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tip_nekretnine": "Poslovni prostor",
+      "naziv": "Prostor za urede u poslovnom centru",
+      "kvadratura": 150,
+      "cijena": 400000,
+      "tip_grijanja": "klima",
+      "lokacija": "Marijin Dvor",
+      "godina_izgradnje": 2015,
+      "datum_objave": "05.12.2023.",
+      "opis": "Udoban poslovni prostor u centru grada.",
+      "upiti": [
+        {
+          "korisnik_id": 6,
+          "tekst_upita": "Mogu li se iznajmiti pojedinačne kancelarije?"
+        },
+        {
+          "korisnik_id": 7,
+          "tekst_upita": "Postoji li recepcija?"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tip_nekretnine": "Stan",
+      "naziv": "Stan za bračni par Sarajevo",
+      "kvadratura": 58,
+      "cijena": 232000,
+      "tip_grijanja": "plin",
+      "lokacija": "Čengić Vila",
+      "godina_izgradnje": 2019,
+      "datum_objave": "01.10.2023.",
+      "opis": "Stan za bračni par Sarajevo",
+      "upiti": [
+        {
+          "korisnik_id": 1,
+          "tekst_upita": "Gdje se tačno nalazi"
+        },
+        {
+          "korisnik_id": 2,
+          "tekst_upita": "Bombonica"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tip_nekretnine": "Kuća",
+      "naziv": "Luksuzna vila s bazenom",
+      "kvadratura": 300,
+      "cijena": 900000,
+      "tip_grijanja": "centralno",
+      "lokacija": "Ilidža",
+      "godina_izgradnje": 2015,
+      "datum_objave": "18.01.2024.",
+      "opis": "Elegantna vila s prostranim vrtom i bazenom.",
+      "upiti": [
+        {
+          "korisnik_id": 8,
+          "tekst_upita": "Postoji li teretana u blizini?"
+        },
+        {
+          "korisnik_id": 9,
+          "tekst_upita": "Koliko ima spavaćih soba?"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tip_nekretnine": "Stan",
+      "naziv": "Apartman s pogledom na grad",
+      "kvadratura": 70,
+      "cijena": 280000,
+      "tip_grijanja": "toplana",
+      "lokacija": "Bijela Tabija",
+      "godina_izgradnje": 2020,
+      "datum_objave": "22.02.2024.",
+      "opis": "Udoban apartman s prekrasnim pogledom na grad.",
+      "upiti": [
+        {
+          "korisnik_id": 10,
+          "tekst_upita": "Ima li terasa?"
+        },
+        {
+          "korisnik_id": 11,
+          "tekst_upita": "Koliko je udaljen od centra grada?"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tip_nekretnine": "Poslovni prostor",
+      "naziv": "Moderan uredski prostor",
+      "kvadratura": 200,
+      "cijena": 500000,
+      "tip_grijanja": "klima",
+      "lokacija": "Skenderija",
+      "godina_izgradnje": 2018,
+      "datum_objave": "15.03.2024.",
+      "opis": "Prostran i moderan uredski prostor u poslovnom centru.",
+      "upiti": [
+        {
+          "korisnik_id": 12,
+          "tekst_upita": "Postoji li parking za zaposlene?"
+        },
+        {
+          "korisnik_id": 13,
+          "tekst_upita": "Koliko je blizu javnog prijevoza?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tip_nekretnine": "Stan",
+      "naziv": "Novi moderan stan",
+      "kvadratura": 90,
+      "cijena": 350000,
+      "tip_grijanja": "toplinska pumpa",
+      "lokacija": "Marijin Dvor",
+      "godina_izgradnje": 2021,
+      "datum_objave": "10.04.2024.",
+      "opis": "Savremeni stan sa svim modernim sadržajima.",
+      "upiti": [
+        {
+          "korisnik_id": 14,
+          "tekst_upita": "Koliko ima parking mjesta u blizini?"
+        },
+        {
+          "korisnik_id": 15,
+          "tekst_upita": "Da li je blizu vrtića?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tip_nekretnine": "Kuća",
+      "naziv": "Prostrana obiteljska kuća",
+      "kvadratura": 220,
+      "cijena": 600000,
+      "tip_grijanja": "plin",
+      "lokacija": "Ilidža",
+      "godina_izgradnje": 2012,
+      "datum_objave": "25.05.2024.",
+      "opis": "Velika kuća idealna za porodični život.",
+      "upiti": [
+        {
+          "korisnik_id": 16,
+          "tekst_upita": "Postoji li vrtić u blizini?"
+        },
+        {
+          "korisnik_id": 17,
+          "tekst_upita": "Koliko ima kupaonica?"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tip_nekretnine": "Poslovni prostor",
+      "naziv": "Ekskluzivni uredski prostor",
+      "kvadratura": 300,
+      "cijena": 800000,
+      "tip_grijanja": "klima",
+      "lokacija": "Sarajevo Centar",
+      "godina_izgradnje": 2017,
+      "datum_objave": "15.06.2024.",
+      "opis": "Elegantan poslovni prostor sa stilom.",
+      "upiti": [
+        {
+          "korisnik_id": 18,
+          "tekst_upita": "Koliko je blizu restorana?"
+        },
+        {
+          "korisnik_id": 19,
+          "tekst_upita": "Ima li prostor za sastanke?"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tip_nekretnine": "Stan",
+      "naziv": "Luksuzni penthouse",
+      "kvadratura": 180,
+      "cijena": 900000,
+      "tip_grijanja": "podno grijanje",
+      "lokacija": "Grbavica",
+      "godina_izgradnje": 2020,
+      "datum_objave": "20.08.2024.",
+      "opis": "Ekskluzivan penthouse s predivnim pogledom na Stadion Grbavicu.",
+      "upiti": [
+        {
+          "korisnik_id": 20,
+          "tekst_upita": "Ima li teretana u blizini?"
+        },
+        {
+          "korisnik_id": 1,
+          "tekst_upita": "Da li je bučno kad su utakmice?"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tip_nekretnine": "Kuća",
+      "naziv": "Moderan dom s bazenom",
+      "kvadratura": 300,
+      "cijena": 1200000,
+      "tip_grijanja": "toplotna pumpa",
+      "lokacija": "Jarčedoli",
+      "godina_izgradnje": 2015,
+      "datum_objave": "05.10.2024.",
+      "opis": "Elegantna kuća s modernim sadržajima i bazenom.",
+      "upiti": [
+        {
+          "korisnik_id": 2,
+          "tekst_upita": "Ima li domara?"
+        },
+        {
+          "korisnik_id": 3,
+          "tekst_upita": "Koliko je blizu trgovina?"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tip_nekretnine": "Poslovni prostor",
+      "naziv": "Prostrani uredi za najam",
+      "kvadratura": 400,
+      "cijena": 1500000,
+      "tip_grijanja": "klima",
+      "lokacija": "Sarajevo Centar",
+      "godina_izgradnje": 2018,
+      "datum_objave": "15.11.2024.",
+      "opis": "Veliki poslovni prostor pogodan za različite namjene.",
+      "upiti": [
+        {
+          "korisnik_id": 4,
+          "tekst_upita": "Mogu li se uredi prilagoditi?"
+        },
+        {
+          "korisnik_id": 5,
+          "tekst_upita": "Koliko je blizu javnog prijevoza?"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tip_nekretnine": "Stan",
+      "naziv": "Elegantan stan sa pogledom na rijeku",
+      "kvadratura": 120,
+      "cijena": 550000,
+      "tip_grijanja": "plin",
+      "lokacija": "Čengić Vila",
+      "godina_izgradnje": 2016,
+      "datum_objave": "01.12.2024.",
+      "opis": "Prostran stan s prekrasnim pogledom na rijeku.",
+      "upiti": [
+        {
+          "korisnik_id": 6,
+          "tekst_upita": "Postoji li biciklizam u blizini?"
+        },
+        {
+          "korisnik_id": 7,
+          "tekst_upita": "Koliko ima spavaćih soba?"
+        }
+      ]
+    }
+]
+  

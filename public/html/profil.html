@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="bs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profil korisnika</title>
+    <link rel="stylesheet" href="../css/profil.css" />
+    <link rel="stylesheet" href="../css/meni.css" />
+  </head>
+  <body>
+    <nav id="navigacijski-meni">
+      <ul>
+        <li><a id="profil-link" href="profil.html">Profil</a></li>
+        <li><a href="nekretnine.html">Nekretnine</a></li>
+        <li>
+          <a id="prijava-link" href="prijava.html" style="display: none"
+            >Prijava</a
+          >
+        </li>
+        <li>
+          <a id="odjava-link" href="prijava.html">Odjava</a>
+        </li>
+      </ul>
+    </nav>
+    <div id="profil-container">
+      <img
+        src="https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg"
+        alt="Slika korisnika"
+      />
+      <div id="podaci-container">
+        <div class="info-item">
+          <label>Ime</label>
+          <input type="text" placeholder="Ime korisnika" />
+        </div>
+
+        <div class="info-item">
+          <label>Prezime</label>
+          <input type="text" placeholder="Prezime korisnika" />
+        </div>
+
+        <div class="info-item">
+          <label>Username</label>
+          <input type="text" placeholder="Username korisnika" />
+        </div>
+
+        <div class="info-item">
+          <label>Password</label>
+          <input type="password" placeholder="Password korisnika" />
+        </div>
+      </div>
+    </div>
+    <script src="../scripts/PoziviAjax.js"></script>
+    <script src="../scripts/inicijalizacija.js"></script>
+  </body>
+</html>
